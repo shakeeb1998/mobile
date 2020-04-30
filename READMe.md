@@ -1,4 +1,4 @@
-# Barricade - De-centralized AI-based face recognition attendence system
+# Barricade: De-centralized AI-based face recognition attendence system
 
 ### Problem
 In Pakistan, 37% of government doctors are absent in hospitals. Our MNA's are found marking proxies of their fellow politicians in Assembly's attendence register.
