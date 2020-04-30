@@ -2,7 +2,7 @@
 
 ### Problem
 In Pakistan, 37% of government doctors are absent in hospitals. Our MNA's are found marking proxies of their fellow politicians in Assembly's attendence register.
-Where 2.5 million children are not in school, thousands of ghost schools are making matters worse. These are schools that either exist on paper only, have a building that is being used for another purpose, or being left to dilapidate because 29% of government teachers are not showing up to schools but are marked present in the school register and eventually get paid by the government for doing nothing (THAT'S CORRUPTION!).
+Where 2.5 million children are not in school, thousands of ghost schools are making matters worse. These are schools that either exist on paper only, have a building that's being used for another purpose, or being left to dilapidate because 29% of government teachers are not showing up to schools but are marked present in school register and get paid by the government for nothing (THAT'S CORRUPTION!).
 Across the country, more and more university students are missing so many classes that they are academically at risk. With our country suffering from a considerably low literacy rate, the country’s youth is busy showing a non-serious attitude towards education, which is evident from their habit of bunking off their classes in educational institutions.
 
 ### Solution 
